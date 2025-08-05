@@ -4,6 +4,7 @@ This is a responsive portfolio website with background design inspired by **Nick
 
 ## 🖼️ Background Preview
 
-![Background image](nick-slater.jpeg)
+![Background image](https://raw.githubusercontent.com/shanmukmurugula/shanmuk/main/nick-slater.jpeg)
+
 
 > Background image used in the webpage design.
