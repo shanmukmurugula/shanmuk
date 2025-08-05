@@ -1,10 +1,9 @@
-# 🔥 Shanmuk's Project
+# 🎨 Shanmuk's Portfolio Project
 
-![Hero Banner](bg_2.jpeg)
+This is a responsive portfolio website with background design inspired by **Nick Slater**.
 
-This is my awesome web project built using HTML, CSS, and JavaScript.
+## 🖼️ Background Preview
 
-## 🖼️ Screenshots
-![Nick Image](nick slater.jpeg)
+![Background image](nick_slater.jpeg)
 
-More coming soon!
+> Background image used in the webpage design.
